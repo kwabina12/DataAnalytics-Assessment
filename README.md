@@ -71,5 +71,3 @@ ORDER BY total_deposits DESC;
 4. **Field Selection for Deposits:**
    Choosing the right field (`new_balance`) to represent deposits was a design choice.
    **Resolution:** Assumed `new_balance` reflects actual deposit amount — if not, further clarification on schema is needed.
-
-
